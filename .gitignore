@@ -1,2 +1,4 @@
 build/*
 sub_project1/build/*
+sub_project2/build/*
+.idea/.name
