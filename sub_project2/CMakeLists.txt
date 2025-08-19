@@ -3,4 +3,4 @@ project(sublib2)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(testProject subproj2.cpp)
+add_executable(subproj2 subproj2.cpp)

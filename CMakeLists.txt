@@ -1,6 +1,6 @@
 cmake_minimum_required(VERSION 4.0)
-project(sublib1)
+project(testProject)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(sublib1 subproj1.cpp)
+add_executable(testProject main.cpp)
